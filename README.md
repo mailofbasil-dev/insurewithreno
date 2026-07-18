@@ -111,13 +111,64 @@
             text-align: center;
             padding: 15px;
         }
+<style>
+/* Existing CSS here */
+
+/* Mobile View */
+@media screen and (max-width: 768px) {
+
+    nav {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    nav ul {
+        flex-direction: column;
+        padding-top: 10px;
+    }
+
+    nav ul li {
+        margin: 10px 0;
+    }
+
+    .hero {
+        padding: 60px 15px;
+    }
+
+    .hero h1 {
+        font-size: 2rem;
+    }
+
+    .hero p {
+        font-size: 1rem;
+    }
+
+    .service-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card {
+        width: 90%;
+    }
+
+    header {
+        padding: 15px 20px;
+    }
+
+    .contact input,
+    .contact textarea {
+        width: 90%;
+    }
+}
+</style>
     </style>
 </head>
 <body>
 
     <header>
         <nav>
-            <h2>SecureLife Insurance</h2>
+            <h2>Insurewithreno</h2>
 
             <ul>
                 <li>#Home</a></li>
