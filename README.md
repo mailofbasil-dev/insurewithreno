@@ -1,6 +1,5 @@
 # insurewithreno
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -171,7 +170,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2026 SecureLife Insurance. All Rights Reserved.</p>
+        <p>&copy; 2026 Insurewithreno. All Rights Reserved.</p>
     </footer>
 
 </body>
