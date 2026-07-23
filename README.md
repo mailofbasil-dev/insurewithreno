@@ -222,6 +222,16 @@
     <footer>
         <p>&copy; 2026 Insurewithreno. All Rights Reserved.</p>
     </footer>
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    width: 100%;
+}
 
+img {
+    max-width: 100%;
+    height: auto;
+}
 </body>
 </html>
